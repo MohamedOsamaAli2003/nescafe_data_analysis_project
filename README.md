@@ -47,7 +47,7 @@ It demonstrates the complete data analysis workflow:
 ---
 
 ## 📷 Dashboards
-![Dashboard Screenshot](images/nescafe_sales_performance_dashboard.png)
+![Dashboard Screenshot](nescafe_sales_performance_dashboard.png)
 
 ---
 
