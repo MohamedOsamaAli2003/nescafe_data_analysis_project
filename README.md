@@ -46,13 +46,12 @@ It demonstrates the complete data analysis workflow:
 
 ---
 
-## 📷 Screenshots
-![Dashboard Screenshot](nescafe_sales_performance_dashboard.png)
+## 📷 Dashboards
+![Dashboard Screenshot](images/nescafe_sales_performance_dashboard.png)
 
 ---
 
 ## 🚀 How to Use
 1. Download the Excel file from this repository.  
-2. Open with Microsoft Excel (2016+ recommended).  
-
+2. Open with Microsoft Excel 2016 or later (recommended).  
 3. Use the slicers to interact with the dashboard.
